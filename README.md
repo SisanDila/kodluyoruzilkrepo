@@ -5,6 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi kapsamında 
 
 ## Installation
 Öncelikle projeyi "clone"layın
+
     git clone (https://github.com/SisanDila/kodluyoruzilkrepo.git)
 
 ## Usage
