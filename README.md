@@ -3,11 +3,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi kapsamında 
 
 ![Projenin bir resmi](https://raw.githubusercontent.com/SisanDila/kodluyoruzilkrepo/main/Pic/proje.png)
 
-##Installation
+## Installation
 Öncelikle projeyi "clone"layın
     git clone (https://github.com/SisanDila/kodluyoruzilkrepo.git)
 
-##Usage
+## Usage
 
 Projeyi "clone"ladıktan sonra VSCode programını açınız.
 
@@ -16,9 +16,9 @@ Linux için:
     cd kodluyoruzilkrepo
     code . 
 
-##Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
-##License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/) 
